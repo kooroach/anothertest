@@ -16,5 +16,10 @@ now new 2
         not very new
         
         this another line i add to test history
+        
+        this is in response to issue #1
+        
+        
+        salam :)
     </body>
 </html>
