@@ -21,6 +21,6 @@ now new 2
         
         kiojkij
         
-        salam :)
+        salam :) kiri
     </body>
 </html>
