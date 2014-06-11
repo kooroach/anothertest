@@ -5,9 +5,10 @@
         <title></title>
     </head>
     <body>
-        <?php
+        
         tsrtsrtsr
+        this is something new2
         // put your code here
-        ?>
+       
     </body>
 </html>
